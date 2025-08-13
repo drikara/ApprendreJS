@@ -40,4 +40,3 @@ console.log(Object.entries(personne));
 
 
 
-
